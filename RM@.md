@@ -1,7 +1,9 @@
 <table width="100%">
 <tr>
 
-<td width="65%" align="left">
+<td width="65%" align="left" valign="top">
+
+<h3>👋 Hello World, I'm</h3>
 
 <h1>NGCEBO MKHIZE</h1>
 
@@ -13,11 +15,13 @@
 
 </td>
 
-<td width="35%" align="center">
+<td width="35%" align="right" valign="top">
 
-<img src="./GHPP1.jpg"
-width="180"
-style="border-radius:50%; border:3px solid #00FF66;" />
+<img src="./GitHubReadME1.jpeg"
+width="220"
+style="border-radius:50%;
+border:3px solid #00FF66;
+box-shadow:0 0 20px #00FF66;" />
 
 </td>
 

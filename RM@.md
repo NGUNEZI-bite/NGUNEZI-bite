@@ -1,68 +1,53 @@
-<!-- TOP SECTION -->
 <table width="100%">
 <tr>
 
-<td width="65%" align="left" valign="top">
+<!-- LEFT SECTION -->
+<td width="55%" valign="middle" align="left">
 
-<h2>👋 Hello World, I'm</h2>
+<h3>Hello, I’m</h3>
 
-<h1>
-<strong>
-<span style="font-size:60px;">
-NGCEBO MKHIZE
-</span>
-</strong>
+<h1 style="margin-bottom: 5px;">
+Ngcebo Mkhize
 </h1>
 
-<hr style="height:1px;border:none;background:#333;margin:15px 0;">
-
-<h2>
+<h3>
 Aspiring Software Developer | Junior Software Developer
-</h2>
+</h3>
 
-<p style="font-size:16px;">
-⚡ Building Ideas • Solving Problems • Creating Impact • Lifelong Learner
+<p>
+💻 Problem Solver &nbsp; | &nbsp;
+🧠 Lifelong Learner &nbsp; | &nbsp;
+🚀 Building Real-World Software
+</p>
+
+<br>
+
+<p>
+📍 Johannesburg, South Africa <br>
+📞 068 089 6118 <br>
+📧 <a href="mailto:Yisemkhuluj@gmail.com">
+Yisemkhuluj@gmail.com
+</a><br>
+
+💼 <a href="https://linkedin.com/in/ngcebo-mkhize-7a6a69239">
+linkedin.com/in/ngcebo-mkhize-7a6a69239
+</a><br>
+
+💻 <a href="https://github.com/NGUNEZI-bite">
+github.com/NGUNEZI-bite
+</a>
 </p>
 
 </td>
 
-<td width="35%" align="center" valign="top">
+<!-- RIGHT SECTION -->
+<td width="45%" align="right" valign="middle">
 
 <img src="./GitHubReadME1.jpeg"
-width="260"
-style="
-border-radius:50%;
-border:3px solid #0066FF;
-box-shadow:0 0 25px #0066FF;" />
+width="350"
+style="border-radius:15px;" />
 
 </td>
 
 </tr>
 </table>
-
-<br>
-
-<!-- CONTACT SECTION -->
-## 📫 Connect With Me
-
-📍 Johannesburg, South Africa  
-📞 068 089 6118  
-📧 <a href="mailto:Yisemkhuluj@gmail.com">Yisemkhuluj@gmail.com</a>  
-💼 <a href="https://linkedin.com/in/ngcebo-mkhize-7a6a69239">LinkedIn</a>  
-💻 <a href="https://github.com/NGUNEZI-bite">GitHub</a>
-
-<br>
-
-<p>
-<a href="https://github.com/NGUNEZI-bite">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/ngcebo-mkhize-7a6a69239">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:Yisemkhuluj@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>

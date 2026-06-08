@@ -437,8 +437,8 @@ width="100%">
 
 <td align="center">
 
-<a href="mailto:Yisemkhuluj@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Yisemkhuluj%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:Yisemkhulug@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Yisemkhulug%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </td>

@@ -389,7 +389,7 @@ Educational app helping students practice mathematics with instant feedback.
 
 </tr>
 </table>
-<!--- xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ---/>
+
 <h2>📊 GITHUB STATS</h2>
 
 <table width="100%">

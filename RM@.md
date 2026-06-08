@@ -259,6 +259,8 @@ margin:18px 0;
 
 </td>
 
+<!--- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx --->
+
 </tr>
 </table>
 <h2>⚡ TECH STACK</h2>

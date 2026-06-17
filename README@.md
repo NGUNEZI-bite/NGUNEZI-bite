@@ -59,7 +59,7 @@ color:#e5e5e5;
 🧠 Lifelong Learner &nbsp; | &nbsp;
 🚀 Building Real-World Software
 </p>
-Passionate aspiring software developer with a strong
+Passionate Junior software developer with a strong
 foundation in Software Development Life Cycle (SDLC),
 Agile development, object-oriented programming,
 and analytical problem solving.
@@ -123,7 +123,8 @@ box-shadow:0 0 35px rgba(0,123,255,0.25);
 
 </tr>
 
-<!---xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+
 
 <table width="100%" cellpadding="12" cellspacing="0">
 <tr>
@@ -157,7 +158,6 @@ line-height:1.8;
 color:#d1d5db;
 margin-bottom:18px;
 ">
-qawerttttt
 </p>
 
 <p style="margin:12px 0;">

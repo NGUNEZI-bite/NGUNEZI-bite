@@ -315,6 +315,7 @@ margin:18px 0;
 
 <p>
 Windows Forms desktop application for managing inventory.
+https://github.com/NGUNEZI-bite/stockwise-inventory-management-system
 </p>
 
 <p>

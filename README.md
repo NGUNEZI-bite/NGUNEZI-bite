@@ -311,19 +311,40 @@ margin:18px 0;
 
 <img src="https://placehold.co/250x120/151B2E/8B5CF6?text=Coming+Soon" width="100%">
 
-<h3>📚 Student Management System</h3>
+<h3>📚 Stock Inventory Management System</h3>
 
 <p>
-Desktop application for managing student information, attendance and academic records.
+Windows Forms desktop application for managing inventory.
 </p>
 
 <p>
-<code>Java</code>
+<code>C#</code>
 <code>MySQL</code>
 <code>Swing</code>
 </p>
 
-<b>🚧 In Progress</b>
+<b>🚧 Completed</b>
+
+</td>
+
+<td width="25%" valign="top">
+
+<img src="https://placehold.co/250x120/151B2E/F59E0B?text=Completed" width="100%">
+
+<h3>🧮 Math Tutor App</h3>
+
+<p>
+Educational app helping students practice mathematics with instant feedback.
+https://github.com/NGUNEZI-bite/Maths-Tutor-App  
+</p>
+
+<p>
+<code>C#</code>
+<code>Tkinter</code>
+<code>JSON</code>
+</p>
+
+<b>🚧 Completed </b>
 
 </td>
 
@@ -367,26 +388,7 @@ Productivity app for tracking tasks and managing daily goals efficiently.
 
 </td>
 
-<td width="25%" valign="top">
 
-<img src="https://placehold.co/250x120/151B2E/F59E0B?text=Completed" width="100%">
-
-<h3>🧮 Math Tutor App</h3>
-
-<p>
-Educational app helping students practice mathematics with instant feedback.
-https://github.com/NGUNEZI-bite/Maths-Tutor-App  
-</p>
-
-<p>
-<code>C#</code>
-<code>Tkinter</code>
-<code>JSON</code>
-</p>
-
-<b>🚧 Completed </b>
-
-</td>
 
 </tr>
 </table>

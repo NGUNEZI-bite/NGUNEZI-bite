@@ -369,21 +369,22 @@ Productivity app for tracking tasks and managing daily goals efficiently.
 
 <td width="25%" valign="top">
 
-<img src="https://placehold.co/250x120/151B2E/F59E0B?text=Coming+Soon" width="100%">
+<img src="https://placehold.co/250x120/151B2E/F59E0B?text=Completed" width="100%">
 
 <h3>🧮 Math Tutor App</h3>
 
 <p>
 Educational app helping students practice mathematics with instant feedback.
+https://github.com/NGUNEZI-bite/Maths-Tutor-App  
 </p>
 
 <p>
-<code>Python</code>
+<code>C#</code>
 <code>Tkinter</code>
 <code>JSON</code>
 </p>
 
-<b>🚧 In Progress</b>
+<b>🚧 Completed </b>
 
 </td>
 

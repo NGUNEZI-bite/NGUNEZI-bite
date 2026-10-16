@@ -309,7 +309,7 @@ margin:18px 0;
 
 <td width="25%" valign="top">
 
-<img src="https://placehold.co/250x120/151B2E/8B5CF6?text=Coming+Soon" width="100%">
+<img src="https://placehold.co/250x120/151B2E/8B5CF6?text=Completed" width="100%">
 
 <h3>📚 Stock Inventory Management System</h3>
 
